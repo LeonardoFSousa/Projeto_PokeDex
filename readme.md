@@ -17,6 +17,16 @@ Este projeto é uma aplicação desenvolvida em React que simula uma Pokédex. A
 
 ---
 
+## 📷 Preview do Projeto
+
+### 🏠 Tela Inicial
+![Tela Inicial da Pokedex](./assets/pokedex-home.png)
+
+### 🔎 Tela de Detalhes
+![Tela de Detalhes do Pokémon](./assets/pokedex-details.png)
+
+---
+
 ## 🛠 Tecnologias Utilizadas
 - ⚛️ React.js
 - 📜 JavaScript (ES6+)
