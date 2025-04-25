@@ -45,11 +45,11 @@ Este projeto é uma aplicação desenvolvida em React que simula uma Pokédex. A
 ### 📌 Passos para rodar o projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/LeonardoFSousa/Projeto_PokeDex/.git
    ```
 2. Entre na pasta do projeto:
    ```sh
-   cd nome-do-repositorio
+   cd Projeto_PokeDex
    ```
 3. Instale as dependências:
    ```sh
